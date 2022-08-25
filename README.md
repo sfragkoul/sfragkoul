@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://github.com/sfragkoul">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sfragkoul&show_icons=true&theme=ayu-mirage" />
+</a>
+</br>
+<a href="https://github.com/sfragkoul">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sfragkoul&langs_count=10&layout=compact&card_width=444&theme=ayu-mirage" />
+</a>
