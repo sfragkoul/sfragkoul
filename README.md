@@ -1,4 +1,4 @@
-### Hi there my name is Stella🌠
+### Hi there my name is Stella (she/her)🌠
 
 <!--
 **sfragkoul/sfragkoul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
