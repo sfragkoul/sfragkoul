@@ -1,4 +1,6 @@
 ### Hi there my name is Stella (she/her)🌠
+I am a Physicist playing with Machine Learning and Bioinformatics!
+
 
 <!--
 **sfragkoul/sfragkoul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Github](https://img.shields.io/github/followers/sfragkoul?label=Follow&style=social)](https://github.com/sfragkoul)
+
 
 <a href="https://github.com/sfragkoul">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sfragkoul&theme=nightowl&show_icons=true" />
