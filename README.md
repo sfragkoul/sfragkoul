@@ -1,5 +1,5 @@
 ### Hi there my name is Stella (she/her)🌠
-I am a Physicist playing with Machine Learning and Bioinformatics!
+I am a Physicist playing with Artificial Intelligence and Bioinformatics!
 
 
 <!--
