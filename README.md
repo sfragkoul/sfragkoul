@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 </a>
 </br>
 <a href="https://github.com/sfragkoul">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sfragkoul&count_private=true&langs_count=10&layout=compact&card_width=444&theme=nightowl&size_weight=0.5&count_weight=0.5" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sfragkoul&count_private=true&langs_count=10&layout=compact&card_width=444&theme=nightowl" />
 </a>
