@@ -2,7 +2,7 @@
  
 - B.Sc. *Physics* (Physics dep., AUTH) 🪐
 - M.Sc. *Digital Media and Computational Intelligence* (Informatics dep., AUTH)👩‍💻     
-- Ph.D. Candidate in *Bioinformatics* (Biology dep., UoA)🧬
+- Ph.D. Candidate *Bioinformatics* (Biology dep., UoA)🧬
 - Research fellow (INAB|CERTH)  
 
 <!--
