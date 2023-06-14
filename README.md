@@ -1,4 +1,4 @@
-## Hi there my name is Stella and I am a Physicist playing with AI and Bioinformatics!
+## Hi there my name is Stella
  
 - B.Sc. *Physics* (Physics dep., AUTH) 🪐
 - M.Sc. *Digital Media and Computational Intelligence* (Informatics dep., AUTH)👩‍💻     
