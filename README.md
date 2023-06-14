@@ -1,7 +1,7 @@
 ## Hi there my name is Stella
  
-- B.Sc. *Physics* (Physics dep., AUTH) 🪐
-- M.Sc. *Digital Media and Computational Intelligence* (Informatics dep., AUTH)👩‍💻     
+- B.Sc. *Physics* (Physics dep., AUTh) 🪐
+- M.Sc. *Digital Media and Computational Intelligence* (Informatics dep., AUTh)👩‍💻     
 - Ph.D. Candidate *Bioinformatics* (Biology dep., UoA)🧬
 - Research fellow (INAB|CERTH)  
 
