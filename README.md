@@ -1,9 +1,9 @@
 ## Hi there my name is Stella
  
-- B.Sc. *Physics* (Physics department | AUTh) 🪐
-- M.Sc. *Digital Media and Computational Intelligence* (Informatics department | AUTh) 👩‍💻     
 - Ph.D. Candidate *Bioinformatics* (Biology department | UoA) 🧬
 - Research fellow (INAB | CERTH) 👩‍🔬
+- M.Sc. *Digital Media and Computational Intelligence* (Informatics department | AUTh) 👩‍💻    
+- B.Sc. *Physics* (Physics department | AUTh) 🪐
 
 <!--
 **sfragkoul/sfragkoul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
