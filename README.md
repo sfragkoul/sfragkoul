@@ -1,7 +1,6 @@
 ## Hi there my name is Stella
  
 - Ph.D. Candidate *Bioinformatics* (Biology department | UoA) 🧬
-- Research fellow (INAB | CERTH) 👩‍🔬
 - M.Sc. *Digital Media and Computational Intelligence* (Informatics department | AUTh) 👩‍💻    
 - B.Sc. *Physics* (Physics department | AUTh) 🪐
 
