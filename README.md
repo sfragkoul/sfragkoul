@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 -->
 [![Github](https://img.shields.io/github/followers/sfragkoul?label=Follow&style=social)](https://github.com/sfragkoul)
 
-
 <a href="https://github.com/sfragkoul">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sfragkoul&theme=nightowl&show_icons=true" />
 </a>
